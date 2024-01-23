@@ -1,4 +1,5 @@
-Welcome to my portfolio! 👋 I created Github account to showcases my skills as a frontend developer.
+<h1>Welcome to my portfolio! 👋 </h1> 
+I created Github account to showcases my skills as a frontend developer.
 
 ## Introduction 🎊
 
