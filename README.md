@@ -1,4 +1,4 @@
-Welcome to my portfolio! This project showcases my skills as a frontend developer.
+Welcome to my portfolio! 👋 I created Github account to showcases my skills as a frontend developer.
 
 ## Introduction
 
@@ -22,6 +22,7 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 - <i class="fab fa-react"></i> React
 - <i class="fab fa-bootstrap"></i> Bootstrap
 - <i class="fab fa-git"></i> Git
+- <img src="https://camo.githubusercontent.com/bdb7731529e6563b08b823d27f981683f89fd666d434f6592cb901ba763277f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" alt="Figma" data-canonical-src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;">
 
 
 
