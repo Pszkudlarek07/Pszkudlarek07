@@ -9,20 +9,20 @@ I'm a passionate frontend developer with experience in HTML, CSS, JavaScript and
 
 Here are some of the projects I've worked on:
 
-- <i class="fas fa-globe"></i> **Project 1:** 
-- <i class="fas fa-gamepad"></i> **Project 2:** 
-- <i class="fas fa-cloud-sun"></i> **Project 3:** 
+-  **Project 1:** 
+-  **Project 2:** 
+-  **Project 3:** 
 
 ## Skills 💥
 
 Here are some of the programming languages, frameworks, and tools I'm proficient in:
 
-- <i class="fab fa-html5"></i> HTML
-- <i class="fab fa-css3-alt"></i> CSS
-- <i class="fab fa-js-square"></i> JavaScript
-- <i class="fab fa-react"></i> Github
-- <i class="fab fa-bootstrap"></i> Bootstrap
-- <i class="fab fa-git"></i> Git
+-  HTML
+-  CSS
+-  JavaScript
+-  Github
+-  Bootstrap
+-  Git
 
 
 ## Contact 📩
