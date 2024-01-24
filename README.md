@@ -9,9 +9,9 @@ I'm a passionate frontend developer with experience in HTML, CSS, JavaScript, Bo
 
 Here are some of the projects I've worked on:
 
--  **Project 1:** PORTFOLIO WEBSITE ⚜️ - Webpage with own projects and simple games. (http://homepage-geels.netlify.app)
--  **Project 2:** HAIR SALON WEBSITE 🪮- Webpage customize for professional hair salon. (https://spectrum-salon.netlify.app/)
--  **Project 3:** AVIARY WEBSITE 🐦 - Website committed to different kind of breeding birds. (https://woliera-mariusza.netlify.app/)
+-  **Project 1:** PORTFOLIO  ⚜️ - Webpage with own projects and simple games. (http://homepage-geels.netlify.app)
+-  **Project 2:** HAIR SALON  🪮- Webpage customize for professional hair salon. (https://spectrum-salon.netlify.app/)
+-  **Project 3:** AVIARY  🐦 - Website committed to different kind of breeding birds. (https://woliera-mariusza.netlify.app/)
 -  **Next projects soon ... 🚀**
 
 ## Skills 💥
