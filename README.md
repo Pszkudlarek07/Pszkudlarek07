@@ -3,7 +3,7 @@ I created Github account to showcases my skills as a frontend developer.
 
 ## Introduction 🎊
 
-I'm a passionate frontend developer with experience in HTML, CSS, JavaScript and Bootstrap. I created this portfolio to showcase my skills and projects. 
+I'm a passionate frontend developer with experience in HTML, CSS, JavaScript, Bootstrap and many more. I created this portfolio to showcase my skills and projects. 
 
 ## Projects 📱
 
