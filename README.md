@@ -62,7 +62,7 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 
 If you have any questions or would like to get in touch, feel free to email me at patryk980207@gmail.com
 
-## Hobby
-I like to play Chess ♟️ and watching movies 🎞️.
+## Hobby ♟️
+I like to play chess and watching movies 🎞️.
 
 
