@@ -3,15 +3,15 @@ I created Github account to showcases my skills as a frontend developer.
 
 ## Introduction 🎊
 
-I'm a passionate frontend developer with experience in HTML, CSS, JavaScript, Bootstrap and many more. I created this portfolio to showcase my skills and projects. 
+My name is Patryk, I've crafted several projects that showcase my dedication to creating intuitive and visually appealing user interfaces. Let's connect and explore the exciting world of web development together!
 
 ## Projects 📱
 
 Here are some of the projects I've worked on:
 
--  **Project 1:** PORTFOLIO  ⚜️ - Webpage with own projects and simple games. (http://homepage-geels.netlify.app)
--  **Project 2:** HAIR SALON  🪮- Webpage customize for professional hair salon. (https://spectrum-salon.netlify.app/)
--  **Project 3:** AVIARY  🐦 - Website committed to different kind of breeding birds. (https://woliera-mariusza.netlify.app/)
+-  **Project 1** PORTFOLIO  ⚜️ - Webpage with own projects and simple games. (http://homepage-geels.netlify.app)
+-  **Project 2** HAIR SALON  🪮- Webpage customize for professional hair salon. (https://spectrum-salon.netlify.app/)
+-  **Project 3** AVIARY  🐦 - Website committed to different kind of breeding birds. (https://woliera-mariusza.netlify.app/)
 -  **Next projects soon ... 🚀**
 
 ## Skills 💥
@@ -61,3 +61,8 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 ## Contact 📩
 
 If you have any questions or would like to get in touch, feel free to email me at patryk980207@gmail.com
+
+## Hobby
+I like to play Chess ♟️ and watching movies 🎞️.
+
+
