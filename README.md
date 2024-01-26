@@ -1,4 +1,5 @@
-![banner](https://github.com/Pszkudlarek07/Pszkudlarek07/assets/143716328/5d8c4bb5-6c2a-4366-9979-2b79d78056ed)
+![banner](https://github.com/Pszkudlarek07/Pszkudlarek07/assets/143716328/480130e6-fbaf-424c-8130-a792e8c39d58)
+
 
 
 ## Introduction 🎊
