@@ -1,5 +1,4 @@
-<h1>Welcome to my portfolio! 👋 </h1> 
-I created Github account to showcases my skills as a frontend developer.
+<img src="![banner](https://github.com/Pszkudlarek07/Pszkudlarek07/assets/143716328/ad3f413e-7595-4181-980a-f7b4b7e092e3)" alt="my banner">
 
 ## Introduction 🎊
 
