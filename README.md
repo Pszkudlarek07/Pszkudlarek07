@@ -1,4 +1,5 @@
-<img src="![banner](https://github.com/Pszkudlarek07/Pszkudlarek07/assets/143716328/ad3f413e-7595-4181-980a-f7b4b7e092e3)" alt="my banner">
+![banner](https://github.com/Pszkudlarek07/Pszkudlarek07/assets/143716328/5d8c4bb5-6c2a-4366-9979-2b79d78056ed)
+
 
 ## Introduction 🎊
 
