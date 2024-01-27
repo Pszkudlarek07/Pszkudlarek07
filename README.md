@@ -64,10 +64,23 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 If you have any questions or would like to get in touch, feel free to email me at patryk980207@gmail.com
 
 ## Hobby ♟️
-<div> I like to play chess and watching movies 🎞️.</div>
-<div></div>
-<div>Traveler 🧳 </div><div>   <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="24">    <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="24">    <img src="https://hatscripts.github.io/circle-flags/flags/uk.svg" width="24">    <img src="https://hatscripts.github.io/circle-flags/flags/at.svg" width="24">    <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="24">    <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="24">
-     <img src="https://hatscripts.github.io/circle-flags/flags/hr.svg" width="24">    <img src="https://hatscripts.github.io/circle-flags/flags/si.svg" width="24">    <img src="https://hatscripts.github.io/circle-flags/flags/mc.svg" width="24">  <img src="https://hatscripts.github.io/circle-flags/flags/gr.svg" width="24">    <img src="https://hatscripts.github.io/circle-flags/flags/cy.svg" width="24">    <img src="https://hatscripts.github.io/circle-flags/flags/cz.svg" width="24">
+<div> I like to play chess and watching movies 🎞️</div>
+<div> </div>
+<div> Traveler  ✈️
+</div> <div>   
+<div>
+  <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="24"> 
+  <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="24">    
+  <img src="https://hatscripts.github.io/circle-flags/flags/uk.svg" width="24">    
+  <img src="https://hatscripts.github.io/circle-flags/flags/at.svg" width="24">    
+  <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="24">    
+  <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="24">
+  <img src="https://hatscripts.github.io/circle-flags/flags/hr.svg" width="24">   
+  <img src="https://hatscripts.github.io/circle-flags/flags/si.svg" width="24">   
+  <img src="https://hatscripts.github.io/circle-flags/flags/mc.svg" width="24">  
+  <img src="https://hatscripts.github.io/circle-flags/flags/gr.svg" width="24">    
+  <img src="https://hatscripts.github.io/circle-flags/flags/cy.svg" width="24">    
+  <img src="https://hatscripts.github.io/circle-flags/flags/cz.svg" width="24">
 </div>
 
 
