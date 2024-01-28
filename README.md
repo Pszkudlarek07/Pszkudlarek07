@@ -65,9 +65,9 @@ If you have any questions or would like to get in touch, feel free to email me a
 
 ## Hobby ♟️
 <div> I like to play chess and watching movies 🎞️</div>
-<div> </div>
+
 <div> Traveler  ✈️
-</div> <div>   
+  
 <div>
   <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="24"> 
   <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="24">    
