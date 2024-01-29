@@ -4,7 +4,7 @@
 
 ## Introduction 🎊
 
-My name is Patryk, I've crafted several projects that showcase my dedication to creating intuitive and visually appealing user interfaces. Let's connect and explore the exciting world of web development together!
+My name is Patryk, I've crafted several projects that showcase my dedication to creating intuitive and visually appealing user interfaces. 
 
 ## Projects 📱
 
