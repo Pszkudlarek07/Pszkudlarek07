@@ -49,6 +49,14 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 </div>
 
 <div>
+<a href="https://https://www.gitkraken.com//" rel="nofollow">
+  <img  src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="gitkraken"  style="max-width: 100%;" >  
+</a>
+</div>
+
+
+
+<div>
 <a href="https://www.canva.com" rel="nofollow"><img src="https://camo.githubusercontent.com/9b0fee2fa46ec8c9aad0b8f58b6f99b3e029ae4bf65a3be6f25433d72a069213/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d2532333030433443432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465" alt="Canva" data-canonical-src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
 
