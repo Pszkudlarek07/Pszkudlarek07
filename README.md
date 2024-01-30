@@ -53,11 +53,20 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 </div>
 
 <div>
+<a href="https://www.figma.com/" rel="nofollow">
+  <img  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"  style="max-width: 100%;" >  
+</a>
+  
+</div>
+
+<div>
 <a href="https://code.visualstudio.com/" rel="nofollow">
   <img  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"  style="max-width: 100%;" >  
 </a>
   
 </div>
+
+
 
 ## Contact 📩
 
