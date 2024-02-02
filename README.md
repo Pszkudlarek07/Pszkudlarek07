@@ -78,6 +78,29 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
   
 </div>
 
+## Currently learning 📖
+
+<div>
+<a href="" rel="nofollow">
+  <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"  style="max-width: 100%;" >  
+</a>
+  
+</div>
+
+<div>
+<a href="" rel="nofollow">
+  <img  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"  style="max-width: 100%;" >  
+</a>
+  
+</div>
+
+<div>
+<a href="" rel="nofollow">
+  <img  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"  style="max-width: 100%;" >  
+</a>
+  
+</div>
+
 
 
 ## Contact 📩
