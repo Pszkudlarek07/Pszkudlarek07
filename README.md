@@ -100,6 +100,12 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 </a>
   
 </div>
+<div>
+<a href="" rel="nofollow">
+  <img  src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress"  style="max-width: 100%;" >  
+</a>
+  
+</div>
 
 
 
