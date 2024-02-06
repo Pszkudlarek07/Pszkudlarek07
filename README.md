@@ -16,7 +16,7 @@ Here are some of the projects I've worked on:
 
 -  **Project 1**   PORTFOLIO  ⚜️  Webpage with own projects. (http://homepage-geels.netlify.app) 🔗
 -  **Project 2**   HAIR SALON  🪮 Webpage customize for professional hair salon. (https://spectrum-salon.netlify.app/) 🔗
--  **Project 3**   AVIARY  🐦     Website committed to different kind of breeding birds. (www.wolieramariusza.pl) 🔗
+-  **Project 3**   AVIARY  🐦     Website committed to different kind of breeding birds. [Aviary Webpage](https://wolieramariusza.pl)🔗
 -  **Next projects soon ... 🚀**
 
 ## Skills 💥
