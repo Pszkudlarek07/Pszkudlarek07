@@ -7,16 +7,16 @@
 My name is Patryk, I've crafted several projects that showcase my dedication to creating intuitive and visually appealing user interfaces. 
 
 <p align="center">
-  <a href="https://github.com/Pszkudlarek07"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=b197fc&background=21252900&center=true&vCenter=true&random=false&width=435&lines=Aspiring+frontend+developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+  <a href="https://github.com/Pszkudlarek07"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d0bfff&background=21252900&center=true&vCenter=true&random=false&width=435&lines=Aspiring+frontend+developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" /></a>
 </p>
 
 ## Projects 📱
 
 Here are some of the projects I've worked on:
 
--  **Project 1**   PORTFOLIO  ⚜️  Webpage with own projects. (http://homepage-geels.netlify.app) 🔗
--  **Project 2**   HAIR SALON  🪮 Webpage customize for professional hair salon. (https://spectrum-salon.netlify.app/) 🔗
--  **Project 3**   AVIARY  🐦     Website committed to different kind of breeding birds. [Aviary Webpage](https://wolieramariusza.pl)🔗
+-  **Project 1**   [**🔗 Portfolio  ⚜️**](http://homepage-geels.netlify.app)   Webpage with own projects.  
+-  **Project 2**   [**🔗 Hair Salon  🪮**](https://spectrum-salon.netlify.app/)  Webpage customize for professional hair salon. 
+-  **Project 3**   [**🔗 Aviary Webpage 🐦**](https://wolieramariusza.pl)        Website committed to different kind of breeding birds. 
 -  **Next projects soon ... 🚀**
 
 ## Skills 💥
