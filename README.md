@@ -12,7 +12,7 @@ My name is Patryk, I've crafted several projects that showcase my dedication to 
 
 ## Projects 📱
 
-Here are some of the projects I've worked on:
+**Here are some of the projects I've worked on:**
 
 -  **Project 1**   [**🔗 Portfolio  ⚜️**](http://homepage-geels.netlify.app)   Webpage with own projects.  
 -  **Project 2**   [**🔗 Hair Salon  🪮**](https://spectrum-salon.netlify.app/)  Webpage customize for professional hair salon. 
