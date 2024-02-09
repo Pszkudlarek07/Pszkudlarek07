@@ -82,27 +82,27 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 ## Currently learning 📖 
 
 <div>
-<a href="" rel="https://react.dev/">
+<a href="https://react.dev/" rel="nofollow">
   <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"  style="max-width: 100%;" >  
 </a>
   
 </div>
 
 <div>
-<a href="" rel="https://www.mysql.com/">
+<a href="https://www.mysql.com/" rel="nofollow">
   <img  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"  style="max-width: 100%;" >  
 </a>
   
 </div>
 
 <div>
-<a href="" rel="https://sass-lang.com/">
+<a href="https://sass-lang.com/" rel="nofollow">
   <img  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"  style="max-width: 100%;" >  
 </a>
   
 </div>
 <div>
-<a href="" rel="https://wordpress.com/?aff=49606&url=https://wordpress.com/create/%3Fgad_source%3D1&gclid=CjwKCAiAt5euBhB9EiwAdkXWO3VpC6s2Bu8mImKtyqYdreOCFngcZsVG8sFAuHGEBuRO_n8RlYHPgRoCpEAQAvD_BwE">
+<a href="https://wordpress.com/?aff=49606&url=https://wordpress.com/create/%3Fgad_source%3D1&gclid=CjwKCAiAt5euBhB9EiwAdkXWO3VpC6s2Bu8mImKtyqYdreOCFngcZsVG8sFAuHGEBuRO_n8RlYHPgRoCpEAQAvD_BwE" rel="nofollow">
   <img  src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress"  style="max-width: 100%;" >  
 </a>
   
