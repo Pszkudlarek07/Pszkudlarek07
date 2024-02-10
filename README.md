@@ -2,7 +2,7 @@
 
 
 
-## Introduction 🎊
+## Introduction ⚜️
 
 My name is Patryk, I've crafted several projects that showcase my dedication to creating intuitive and visually appealing user interfaces. 
 
