@@ -134,5 +134,5 @@ If you have any questions or would like to get in touch, feel free to email me a
   <img src="https://hatscripts.github.io/circle-flags/flags/cz.svg" width="24">
 </div>
 
-![Snake animation](https://github.com/{{your_username}}/{{pszkudlarek07}}/blob/output/github-contribution-grid-snake.svg)
+
 
