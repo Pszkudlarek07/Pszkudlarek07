@@ -134,6 +134,6 @@ If you have any questions or would like to get in touch, feel free to email me a
   <img src="https://hatscripts.github.io/circle-flags/flags/cz.svg" width="24">
 </div>
 
-
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1746" height="58">
 
 
