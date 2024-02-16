@@ -107,6 +107,12 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 </a>
   
 </div>
+<div>
+<a href="https://www.php.net/" rel="nofollow">
+  <img  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white " alt="PHP"  style="max-width: 100%;" >  
+</a>
+  
+</div>
 
 
 
