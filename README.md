@@ -79,7 +79,7 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
   
 </div>
 
-## Currently learning 📖 
+## Currently learning 🌱
 
 <div>
 <a href="https://react.dev/" rel="nofollow">
