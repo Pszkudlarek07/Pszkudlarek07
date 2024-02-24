@@ -123,7 +123,7 @@ If you have any questions or would like to get in touch, feel free to email me a
 ## Hobby ♟️ 
 <div> I like to play chess and watching movies 🎞️</div>
 
-<div> Traveler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Arrival.png" alt="Airplane Arrival" width="25" height="25" />
+<div> Traveler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Arrival.png" alt="Plane" width="25" height="25" />
   
 <div>
   <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="24"> 
