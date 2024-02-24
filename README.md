@@ -14,7 +14,7 @@ My name is Patryk, I've crafted several projects that showcase my dedication to 
 
 **Here are some of the projects I've worked on:**
 
--  **Project 1**   [**🔗 Portfolio  ⚜️**](http://homepage-geels.netlify.app)   Webpage with own projects.  
+-  **Project 1**   [**🔗 Portfolio  ⚜️**](http://geels.ovh)   Webpage with own projects.  
 -  **Project 2**   [**🔗 Hair Salon  🪮**](https://spectrum-salon.netlify.app/)  Webpage customize for professional hair salon. 
 -  **Project 3**   [**🔗 Aviary Webpage 🐦**](https://wolieramariusza.pl)        Website committed to different kind of breeding birds. 
 -  **Next projects soon ... 🚀**
