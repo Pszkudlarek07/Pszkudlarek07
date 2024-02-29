@@ -126,18 +126,18 @@ If you have any questions or would like to get in touch, feel free to email me a
 <div> Traveler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Arrival.png" alt="Plane" width="25" height="25" />
   
 <div>
-  <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="24"> 
-  <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="24">    
-  <img src="https://hatscripts.github.io/circle-flags/flags/uk.svg" width="24">    
-  <img src="https://hatscripts.github.io/circle-flags/flags/at.svg" width="24">    
-  <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="24">    
-  <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="24">
-  <img src="https://hatscripts.github.io/circle-flags/flags/hr.svg" width="24">   
-  <img src="https://hatscripts.github.io/circle-flags/flags/si.svg" width="24">   
-  <img src="https://hatscripts.github.io/circle-flags/flags/mc.svg" width="24">  
-  <img src="https://hatscripts.github.io/circle-flags/flags/gr.svg" width="24">    
-  <img src="https://hatscripts.github.io/circle-flags/flags/cy.svg" width="24">    
-  <img src="https://hatscripts.github.io/circle-flags/flags/cz.svg" width="24">
+  <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="24" alt="Poland flag"> 
+  <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="24" alt="France flag">    
+  <img src="https://hatscripts.github.io/circle-flags/flags/uk.svg" width="24" alt="Great Britain flag">    
+  <img src="https://hatscripts.github.io/circle-flags/flags/at.svg" width="24" alt="Austria flag">    
+  <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="24" alt="Germany flag">    
+  <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="24" alt="Italy flag" >
+  <img src="https://hatscripts.github.io/circle-flags/flags/hr.svg" width="24" alt="Croatia flag" >   
+  <img src="https://hatscripts.github.io/circle-flags/flags/si.svg" width="24" alt="Slovenia flag" >   
+  <img src="https://hatscripts.github.io/circle-flags/flags/mc.svg" width="24" alt="Monaco flag" >  
+  <img src="https://hatscripts.github.io/circle-flags/flags/gr.svg" width="24" alt="Grecce flag" >    
+  <img src="https://hatscripts.github.io/circle-flags/flags/cy.svg" width="24" alt="Cyprus flag" >    
+  <img src="https://hatscripts.github.io/circle-flags/flags/cz.svg" width="24" alt="Czech Republick flag" >
 </div>
 
 
