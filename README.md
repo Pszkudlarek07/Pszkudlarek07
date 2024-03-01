@@ -96,7 +96,7 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 </div>
 
 <div>
-<a href="https://sass-lang.com/" rel="nofollow">
+<a href="https://sass-lang.com/" rel="nofollow"> 
   <img  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"  style="max-width: 100%;" >  
 </a>
   
@@ -121,7 +121,7 @@ Here are some of the programming languages, frameworks, and tools I'm proficient
 If you have any questions or would like to get in touch, feel free to email me at geels.dev@gmail.com 
 
 ## Hobby ♟️ 
-<div> I like to play chess and watching movies 🎞️</div>
+<div> I like to play chess and watching movies  </div>
 
 <div> Traveler <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Arrival.png" alt="Plane" width="25" height="25" />
   
