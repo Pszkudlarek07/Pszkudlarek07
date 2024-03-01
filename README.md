@@ -4,7 +4,7 @@
 
 ## Introduction ⚜️
 
-My name is Patryk, I've crafted several projects that showcase my dedication to creating intuitive and visually appealing user interfaces.
+My name is Patryk Szkudlarek, I've crafted several projects that showcase my dedication to creating intuitive and visually appealing user interfaces.
 
 <p align="center">
   <a href="https://github.com/Pszkudlarek07"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d0bfff&background=21252900&center=true&vCenter=true&random=false&width=435&lines=Aspiring+frontend+developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" /></a>
