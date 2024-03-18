@@ -16,7 +16,8 @@ My name is Patryk Szkudlarek, I've crafted several projects that showcase my ded
 
 -  **Project 1**   [**🔗 Portfolio  ⚜️**](http://geels.ovh) Webpage with own projects.  
 -  **Project 2**   [**🔗 Hair Salon  🪮**](https://spectrum-salon.netlify.app/) Webpage customize for professional hair salon. 
--  **Project 3**   [**🔗 Aviary Webpage 🐦**](https://wolieramariusza.pl) Website committed to different kind of breeding birds. 
+-  **Project 3**   [**🔗 Aviary Webpage 🐦**](https://wolieramariusza.pl) Website committed to different kind of breeding birds.
+-  **Project 4**   
 -  **Next projects soon ... 🚀**
 
 ## Tech stack 💻  
